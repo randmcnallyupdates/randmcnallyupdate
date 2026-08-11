@@ -45,7 +45,7 @@ Connect the compatible GPS device to the computer using an appropriate USB cable
 
 If the GPS is not detected, check the USB cable and try another compatible USB port. Restarting the GPS and computer can also help resolve temporary connection problems.
 
-Once the device is recognized, follow the update instructions applicable to the specific `Rand McNally GPS  update <https://navisolve.com/>`_ model.
+Once the device is recognized, follow the update instructions applicable to the specific `Rand McNally GPS  update <https://randmcnallyupdates-randmcnallyupdate.readthedocs-hosted.com/>`_ model.
 
 Installing Updated Map Data
 ----------------------------
