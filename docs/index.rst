@@ -126,7 +126,7 @@ Drivers should always pay attention to road signs, current conditions, and appli
 Conclusion
 ==========
 
-A `Rand McNally GPS map update <https://navisolve.com/>`_ can help keep compatible navigation devices equipped with current road, address, and point-of-interest information.
+A `Rand McNally GPS map update <https://randmcnallyupdate.inblog.io/randmcnally-gps-map-updates/>`_ can help keep compatible navigation devices equipped with current road, address, and point-of-interest information.
 
 Before beginning an update, identify the correct GPS model, ensure adequate power and storage, maintain a stable internet connection, and follow the appropriate installation instructions.
 
