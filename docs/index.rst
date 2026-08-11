@@ -3,7 +3,7 @@ How to Update Rand McNally GPS Map?
 
 Keeping your navigation system updated is important for accurate and reliable route guidance. A Rand McNally GPS map update can refresh road information, addresses, points of interest, highways, and other navigation data.
 
-.. image:: https://img.shields.io/badge/Get%20Help-yellow?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Update%20Now-yellow?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://navisolve.com/
